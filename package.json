@@ -1,0 +1,18 @@
+{
+  "name": "Project-X",
+  "version": "1.0.0",
+  "description": "Project-X",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "groq-sdk": "^0.37.0",
+    "pg": "^8.16.3",
+    "telegraf": "^4.16.3"
+  }
+}
